@@ -13,6 +13,7 @@ Transformations (occur in order given ahead once told to runthe engine, NOT the 
 Other important things to note:
   - the z axis faces away from the camera, that means as z increases the object gets further away
   - because rotation is applied about the origin before translations, it may be easier to create the object, rotate it, and then put the desired coordinates in through the position option
+  - the scale of the graphics window is 500 by 500, but this only comes into play when your points lie at z=0
   - the graphics engine is terribly optimized at the moment, so kick back and let it work
 
 
