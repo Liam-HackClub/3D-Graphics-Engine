@@ -36,3 +36,5 @@ Video links:
 The graphics window used is from the graphics.py import by John Zelle, and this project wouldn't have been possible without it
 
 Finally, I would like to thank you for choosing to investigate my project.
+
+If you would like a guide, then please visit the project page on the Summer of Hacking Website. GitHub and videos do not mix well.
